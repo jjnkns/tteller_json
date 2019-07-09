@@ -1,1 +1,80 @@
-{"000001":{"pin":"1234","balance":12000,"first":"Greg","last":"Smith"}}
+{
+  "433108": {
+    "pin": "3456",
+    "balance": 13.0,
+    "first": "Arthur",
+    "last": "Johnson"
+  },
+  "155602": {
+    "pin": "1234",
+    "balance": 567.0,
+    "first": "Harvey",
+    "last": "Simpson"
+  },
+  "651216": {
+    "pin": "1234",
+    "balance": 12.0,
+    "first": "Amy",
+    "last": "Adams"
+  },
+  "934532": {
+    "pin": "1234",
+    "balance": 0,
+    "first": "Jeff",
+    "last": "Jones"
+  },
+  "655269": {
+    "pin": "1234",
+    "balance": 11.0,
+    "first": "Sam",
+    "last": "Adams"
+  },
+  "288108": {
+    "pin": "1234",
+    "balance": 0,
+    "first": "Roger",
+    "last": "Stone"
+  },
+  "900342": {
+    "pin": "123",
+    "balance": 22.0,
+    "first": "Carly",
+    "last": "Larson"
+  },
+  "856469": {
+    "pin": "1345",
+    "balance": 0,
+    "first": "Arthur",
+    "last": "Brooks"
+  },
+  "474141": {
+    "pin": "12345",
+    "balance": 0,
+    "first": "Barry",
+    "last": "White"
+  },
+  "170956": {
+    "pin": "1234",
+    "balance": 44.0,
+    "first": "Jeff",
+    "last": "Jones"
+  },
+  "170954": {
+    "pin": "1234",
+    "balance": 0,
+    "first": "Eric",
+    "last": "Johnson"
+  },
+  "851559": {
+    "pin": "1234",
+    "balance": 35.0,
+    "first": "Jennifer",
+    "last": "Jenkins"
+  },
+  "764748": {
+    "pin": "1345",
+    "balance": 15.0,
+    "first": "Bob",
+    "last": "Smith"
+  }
+}

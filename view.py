@@ -8,7 +8,7 @@ def get_initial_menu_choice():
     return selection
 
 def get_main_menu_choice(first_name, last_name, account_num):#pass name in from controller
-    print(f'Hello,{first_name} {last_name} ({account_num})') #e.g. Hello, Nathan Smith (2345)
+    print(f'Hello, {first_name} {last_name} ({account_num})') #e.g. Hello, Nathan Smith (2345)
     print('\t1) Check balance')
     print('\t2) Withdraw funds')
     print('\t3) Deposit funds')
